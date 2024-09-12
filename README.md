@@ -1,2 +1,7 @@
 # first_repo
-PP5531 class workshop
+Github is lovely 
+
+## where did section 1 go
+
+## Section 2
+This is section 2
